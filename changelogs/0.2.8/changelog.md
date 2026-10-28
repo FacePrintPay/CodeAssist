@@ -28,3 +28,5 @@ debug what has happened before the completion request.
 - Fixed crash when calling root() with more than two class roots.
 - Fixed margin layout params not suggested on XML completions.
 - File manager tree state will now be saved when refreshing.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=changelog.md

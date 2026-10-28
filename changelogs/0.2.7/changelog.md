@@ -58,3 +58,5 @@ typing `@string/` will suggest all the strings that can be found on the project.
 - Files that are not text will no longer be allowed to be opened on the editor.
 - Symbols defined in the top level class will now be included in completion list.
 - Cursor position will now be restored to where it was last located when switching between files.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=changelog.md

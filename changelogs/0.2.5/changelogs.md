@@ -62,3 +62,5 @@ If the current character at the cursor position matches one of the right charact
 - Fixed some classes does not appear on xml tag completion.
 - Fixed flickering of the completion list when invoked multiple times.
 - Fixed crash when creating a file that already exists.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=changelogs.md

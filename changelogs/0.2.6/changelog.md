@@ -61,3 +61,5 @@ Sample color schme (from CodeAssist's dark editor scheme)
 - Background analyzers are no longer run when the app is compiling to save resources.
 - Added auto indent for JSON Arrays.
 - Text lines are now trimmed before pasting.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=changelog.md

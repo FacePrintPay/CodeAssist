@@ -44,3 +44,5 @@ This policy is effective as of 2021-12-19
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at contact.tyronscott@gmail.com.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=index.md
